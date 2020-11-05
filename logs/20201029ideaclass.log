@@ -1,0 +1,55 @@
+2020-10-29 10:31:16,124 - log.py[line:48] - DEBUG: None
+2020-10-29 10:32:11,019 - log.py[line:48] - DEBUG: None
+2020-10-29 10:33:10,231 - log.py[line:48] - DEBUG: None
+2020-10-29 10:33:47,504 - log.py[line:48] - DEBUG: {'Login': {'username': 17688773923, 'password': '12345678aa'}}
+2020-10-29 10:34:41,430 - log.py[line:48] - DEBUG: {'Login': {'username': 17688773923, 'password': '12345678aa'}}
+2020-10-29 10:48:34,930 - log.py[line:48] - DEBUG: {'Login': {'username': 17688773923, 'password': '12345678aa'}}
+2020-10-29 11:26:04,840 - log.py[line:48] - DEBUG: {'Login': {'username': 17688773923, 'password': '12345678aa'}}
+2020-10-29 11:26:16,208 - log.py[line:48] - DEBUG: {'Login': {'username': 17688773923, 'password': '12345678aa'}}
+2020-10-29 11:29:31,525 - log.py[line:48] - DEBUG: {'Login': {'username': 17688773923, 'password': '12345678aa'}}
+2020-10-29 11:29:43,101 - log.py[line:48] - DEBUG: {'Login': {'username': 17688773923, 'password': '12345678aa'}}
+2020-10-29 11:29:57,759 - log.py[line:56] - ERROR: Message: 
+
+2020-10-29 11:30:17,521 - log.py[line:48] - DEBUG: {'Login': {'username': 17688773923, 'password': '12345678aa'}}
+2020-10-29 11:30:32,359 - log.py[line:56] - ERROR: Message: 
+
+2020-10-29 11:36:32,168 - log.py[line:48] - DEBUG: {'Login': {'username': 17688773923, 'password': '12345678aa'}}
+2020-10-29 11:36:44,406 - log.py[line:48] - DEBUG: {'Login': {'username': 17688773923, 'password': '12345678aa'}}
+2020-10-29 11:36:59,810 - log.py[line:56] - ERROR: Message: 
+
+2020-10-29 11:37:03,747 - log.py[line:48] - DEBUG: {'Login': {'username': 17688773923, 'password': '12345678aa'}}
+2020-10-29 11:53:45,534 - log.py[line:48] - DEBUG: {'Login': {'username': 17688773923, 'password': '12345678aa'}}
+2020-10-29 11:53:55,466 - log.py[line:48] - DEBUG: {'Login': {'username': 17688773923, 'password': '12345678aa'}}
+2020-10-29 11:54:10,894 - log.py[line:56] - ERROR: Message: 
+
+2020-10-29 11:55:22,661 - log.py[line:48] - DEBUG: {'Login': {'username': 17688773923, 'password': '12345678aa'}}
+2020-10-29 11:56:02,108 - log.py[line:48] - DEBUG: {'Login': {'username': 17688773923, 'password': '12345678aa'}}
+2020-10-29 11:56:12,106 - log.py[line:48] - DEBUG: {'Login': {'username': 17688773923, 'password': '12345678aa'}}
+2020-10-29 11:56:22,298 - log.py[line:56] - ERROR: Message: 
+
+2020-10-29 11:56:26,830 - log.py[line:48] - DEBUG: {'Login': {'username': 17688773923, 'password': '12345678aa'}}
+2020-10-29 11:56:59,345 - log.py[line:48] - DEBUG: {'Login': {'username': 17688773923, 'password': '12345678aa'}}
+2020-10-29 11:57:11,761 - log.py[line:48] - DEBUG: {'Login': {'username': 17688773923, 'password': '12345678aa'}}
+2020-10-29 11:57:22,219 - log.py[line:56] - ERROR: Message: 
+
+2020-10-29 11:57:26,245 - log.py[line:48] - DEBUG: {'Login': {'username': 17688773923, 'password': '12345678aa'}}
+2020-10-29 11:58:09,729 - log.py[line:48] - DEBUG: {'Login': {'username': 17688773923, 'password': '12345678aa'}}
+2020-10-29 11:58:19,031 - log.py[line:48] - DEBUG: {'Login': {'username': 17688773923, 'password': '12345678aa'}}
+2020-10-29 11:58:28,590 - log.py[line:56] - ERROR: Message: 
+
+2020-10-29 11:58:32,659 - log.py[line:48] - DEBUG: {'Login': {'username': 17688773923, 'password': '12345678aa'}}
+2020-10-29 12:03:31,655 - log.py[line:48] - DEBUG: {'Login': {'username': 17688773923, 'password': '12345678aa'}}
+2020-10-29 12:03:41,778 - log.py[line:48] - DEBUG: {'Login': {'username': 17688773923, 'password': '12345678aa'}}
+2020-10-29 12:03:51,541 - log.py[line:56] - ERROR: Message: 
+
+2020-10-29 12:03:57,207 - log.py[line:48] - DEBUG: {'Login': {'username': 17688773923, 'password': '12345678aa'}}
+2020-10-29 12:04:56,150 - log.py[line:48] - DEBUG: {'Login': {'username': 17688773923, 'password': '12345678aa'}}
+2020-10-29 12:05:05,792 - log.py[line:48] - DEBUG: {'Login': {'username': 17688773923, 'password': '12345678aa'}}
+2020-10-29 12:05:15,405 - log.py[line:56] - ERROR: Message: 
+
+2020-10-29 12:05:19,016 - log.py[line:48] - DEBUG: {'Login': {'username': 17688773923, 'password': '12345678aa'}}
+2020-10-29 12:08:27,319 - log.py[line:48] - DEBUG: {'Login': {'username': 17688773923, 'password': '12345678aa'}}
+2020-10-29 12:08:37,442 - log.py[line:48] - DEBUG: {'Login': {'username': 17688773923, 'password': '12345678aa'}}
+2020-10-29 12:08:47,205 - log.py[line:56] - ERROR: Message: 
+
+2020-10-29 12:08:51,319 - log.py[line:48] - DEBUG: {'Login': {'username': 17688773923, 'password': '12345678aa'}}

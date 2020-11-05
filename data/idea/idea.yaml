@@ -1,0 +1,6 @@
+env:
+  loginurl: http://dev-public.apps.cloud2go.cn/public/ide/web/user/login  #登录地址
+test:
+  loginurl: http://dev-public.apps.cloud2go.cn/public/ide/web/user/login
+prodect:
+  loginurl: http://dev-public.apps.cloud2go.cn/public/ide/web/user/login
